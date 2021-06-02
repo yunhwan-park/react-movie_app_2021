@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yunhwan-park/react-movie_app_2021.git/static/css/main.a47cd948.chunk.css",
+    "main.js": "/yunhwan-park/react-movie_app_2021.git/static/js/main.5ad574dc.chunk.js",
+    "main.js.map": "/yunhwan-park/react-movie_app_2021.git/static/js/main.5ad574dc.chunk.js.map",
+    "runtime-main.js": "/yunhwan-park/react-movie_app_2021.git/static/js/runtime-main.cb39eac1.js",
+    "runtime-main.js.map": "/yunhwan-park/react-movie_app_2021.git/static/js/runtime-main.cb39eac1.js.map",
+    "static/js/2.dea40cae.chunk.js": "/yunhwan-park/react-movie_app_2021.git/static/js/2.dea40cae.chunk.js",
+    "static/js/2.dea40cae.chunk.js.map": "/yunhwan-park/react-movie_app_2021.git/static/js/2.dea40cae.chunk.js.map",
+    "index.html": "/yunhwan-park/react-movie_app_2021.git/index.html",
+    "static/css/main.a47cd948.chunk.css.map": "/yunhwan-park/react-movie_app_2021.git/static/css/main.a47cd948.chunk.css.map",
+    "static/js/2.dea40cae.chunk.js.LICENSE.txt": "/yunhwan-park/react-movie_app_2021.git/static/js/2.dea40cae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb39eac1.js",
+    "static/js/2.dea40cae.chunk.js",
+    "static/css/main.a47cd948.chunk.css",
+    "static/js/main.5ad574dc.chunk.js"
+  ]
+}
